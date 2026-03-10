@@ -12,10 +12,10 @@ I'm a data-driven problem solver with hands-on clinical experience, passionate a
 * **Core Competencies:** Statistical Modeling, Machine Learning, Exploratory Data Analysis, Data Visualization, Data Engineering
 
 ### 📂 Featured Projects
-* **[Clinical Trial Outcomes Simulation](https://github.com/jennyygeng/honorsthesis):** R Shiny application implementing statistical modeling to estimate treatment effects under various missing data mechanisms.
-* **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/datadrivendiscovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability (Research Paper & Poster).
-* **[Spotify Data Engineering Pipeline](https://github.com/jennyygeng/dataengineering):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
-* **[Data Analytics Capstones](https://github.com/jennyygeng/dataanalytics):** Derived business strategy insights and built visualizations from predefined datasets provided by Intel and The Recording Academy.
+* **[Clinical Trial Outcomes Simulation](https://github.com/jennyygeng/honors-thesis):** R Shiny application implementing statistical modeling to estimate treatment effects under various missing data mechanisms.
+* **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/data-driven-discovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability (Research Paper & Poster).
+* **[Spotify Data Engineering Pipeline](https://github.com/jennyygeng/data-engineering):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
+* **[Data Analytics Capstones](https://github.com/jennyygeng/data-analytics):** Derived business strategy insights and built visualizations from predefined datasets provided by Intel and The Recording Academy.
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/jennyygeng](https://www.linkedin.com/in/jennyygeng)
