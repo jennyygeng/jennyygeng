@@ -14,7 +14,7 @@ I'm a data-driven problem solver with hands-on clinical experience, passionate a
 ### 📂 Featured Projects
 * **[Clinical Trial Outcomes Simulation](https://github.com/jennyygeng/honors-thesis):** R Shiny application implementing statistical modeling to estimate treatment effects under various missing data mechanisms.
 * **[Housing Price Statistical Modeling](https://github.com/jennyygeng/statistical-modeling):** Built a multiple linear regression model in R using backward stepwise selection and AIC optimization to identify key drivers of property values from raw county assessor data.
-* **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/data-driven-discovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability (Research Paper & Poster).
+* **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/data-driven-discovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability.
 * **[Spotify Data Engineering Pipeline](https://github.com/jennyygeng/data-engineering):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
 * **[Data Analytics Capstones](https://github.com/jennyygeng/data-analytics):** Derived business strategy insights and built visualizations from predefined datasets provided by Intel and The Recording Academy.
 
