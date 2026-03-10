@@ -14,7 +14,7 @@ I'm a data-driven problem solver with hands-on clinical experience, passionate a
 ### 📂 Featured Projects
 * **[Clinical Trial Outcomes Simulation](https://github.com/jennyygeng/honorsthesis):** R Shiny application implementing statistical modeling to estimate treatment effects under various missing data mechanisms.
 * **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/datadrivendiscovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability (Research Paper & Poster).
-* **[Spotify Data Pipeline](link-to-repo):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
+* **[Spotify Data Pipeline](https://github.com/jennyygeng/dataengineering):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
 * **[Data Analytics Capstones](link-to-repo):** Derived business strategy insights and built visualizations from predefined datasets provided by Intel and The Recording Academy.
 
 ### 📫 Let's Connect!
