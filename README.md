@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Hi, I'm Jenny Geng
 
-I'm a data-driven problem solver with hands-on clinical experience, passionate about leveraging analytics to improve patient care and healthcare operations. I am currently completing my **B.S. in Statistics & Data Science** at the University of Arizona, graduating May 2026. I will be continuing my studies to pursue a Master's in Healthcare Data Science. 
+I'm a data-driven problem solver with hands-on clinical experience, passionate about leveraging analytics to improve patient care and healthcare operations. I am currently completing my **B.S. in Statistics & Data Science** (Minor in Computer Science) at the University of Arizona, graduating May 2026. In Fall 2026, I will be joining the University of Southern California (USC) to pursue an M.S. in Healthcare Data Science.
 
 ### 🔬 What I'm Doing:
-- 🎓 **Building:** An interactive R Shiny dashboard for my Honors Thesis to simulate how patient dropout and missing data impact clinical trial statistical power.
+- Wrapping up my undergraduate degree and preparing for the transition to graduate school.
 
 ### 💻 Tech Skills
 * **Languages:** R (R Shiny), Python (Pandas), Java, SQL
@@ -12,7 +12,7 @@ I'm a data-driven problem solver with hands-on clinical experience, passionate a
 * **Core Competencies:** Statistical Modeling, Machine Learning, Exploratory Data Analysis, Data Visualization, Data Engineering
 
 ### 📂 Featured Projects
-* **[Clinical Trial Outcomes Simulation](https://github.com/jennyygeng/honors-thesis):** R Shiny application implementing statistical modeling to estimate treatment effects under various missing data mechanisms (Honors Thesis Project).
+* **[Clinical Trial Missing Data Simulation Dashboard](https://github.com/jennyygeng/honors-thesis):** Developed an interactive R Shiny dashboard to simulate clinical trial outcomes, implementing statistical modeling to estimate treatment effects under various missing data mechanisms (Honors Thesis).
 * **[Statistically Modeling Housing Prices](https://github.com/jennyygeng/statistical-modeling):** Built a multiple linear regression model in R using backward stepwise selection and AIC optimization to identify key drivers of property values from raw county assessor data.
 * **[Equine Gait & Heart Rate Analysis](https://github.com/jennyygeng/data-driven-discovery):** Processed and synchronized time-series data to analyze gait asymmetry and heart rate variability.
 * **[Spotify Data Engineering Pipeline](https://github.com/jennyygeng/data-engineering):** Engineered a Python-based ETL pipeline in Google Colab to extract Spotify API data. Successfully architected and tested an AWS data warehouse (S3, RDS MySQL) prior to spin-down for cloud cost optimization.
