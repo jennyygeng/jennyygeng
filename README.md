@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hi, I'm Jenny Geng
 
-I'm a data-driven problem solver with hands-on clinical experience, passionate about leveraging analytics to improve patient care and healthcare operations. I am currently completing my **B.S. in Statistics & Data Science** (Minor in Computer Science) at the University of Arizona, graduating May 2026. In Fall 2026, I will be joining the University of Southern California (USC) to pursue an M.S. in Healthcare Data Science.
+I'm a data-driven problem solver with hands-on clinical experience, passionate about leveraging analytics to improve patient care and healthcare operations. I am currently completing my **B.S. in Statistics & Data Science** (Minor in Computer Science) at the University of Arizona, graduating May 2026. In Fall 2026, I will be joining the University of Southern California (USC) to pursue an **M.S. in Healthcare Data Science**.
 
 ### 🔬 What I'm Doing:
 - Wrapping up my undergraduate degree and preparing for the transition to graduate school.
