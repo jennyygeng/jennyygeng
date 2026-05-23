@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hi, I'm Jenny Geng
 
-I have a **B.S. in Statistics & Data Science** (Minor in Computer Science) from the University of Arizona and am pursuing my **M.S. in Healthcare Data Science at the University of Southern California (USC)**.
+I have a **B.S. in Statistics & Data Science** (Minor in Computer Science) from the University of Arizona and am pursuing my **M.S. in Healthcare Data Science** at the University of Southern California.
 
 ### 🔬 What I'm Doing:
 - 🎓 **Graduate Studies:** Advancing my training at USC at the intersection of data science, machine learning, and clinical analytics.
